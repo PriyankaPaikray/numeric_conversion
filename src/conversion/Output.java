@@ -14,5 +14,4 @@ public class Output {
 		System.out.println("Convert binary " + binary + " to decimal? ");
 
 	}
-
 }
